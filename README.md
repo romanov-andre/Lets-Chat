@@ -4,6 +4,7 @@ A GUI based program that allows users to communicate over a data network using t
 This project is divided into two parts:
 
 The Server - launched and serves as a host where clients/users can connect to talk to each other.
+
 The Client - attempts to connect to a server in order to find other clients.
 
 **Note:** This project was developed with the help of Yan Chernikov (TheChernoProject) trough his Network Programming series and which he teaches the intracacies of creating a program that works with a data network.
