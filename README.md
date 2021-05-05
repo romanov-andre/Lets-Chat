@@ -1,5 +1,5 @@
 # Let's Chat
-A GUI based program that allows users to communicate over a data network.
+A GUI based program that allows users to communicate over a data network using the UPD protocol.
 
 This project is divided into two parts:
 The Server which is launched and serves as a host where clients can connect to talk to each other.
